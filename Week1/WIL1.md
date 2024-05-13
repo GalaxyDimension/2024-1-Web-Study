@@ -15,3 +15,5 @@
 ##### `<body>`
 + `<h1>` 태그는 제목을 표기
 + `<p>` 텍스트의 문단
+
+![screenpng](https://github.com/GalaxyDimension/2024-1-Web-Study/blob/main/Week1/Week1.png)
