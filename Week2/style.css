@@ -1,0 +1,11 @@
+#title {
+    color:blue;
+    text-align:center;
+}
+
+#changeColorBtn {
+    text-align:center;
+    display :inline-block;
+    background-color:#0a0a23;
+    color: #fff;
+}
