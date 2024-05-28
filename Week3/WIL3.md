@@ -1,11 +1,11 @@
 ## HTTP Method
 ### GET
-![GETimage](GET.png)
+![GET](https://github.com/GalaxyDimension/2024-1-Web-Study/assets/129478908/d6a55e29-ad7f-4d69-b562-aedfd997c134)
 - 클라이언트에서 서버로 어떠한 리소스로 부터 정보를 요청하기 위해 사용되는 메서드
 - 서버에서 어떤 데이터를 가져와서 보여줄 때 사용
 - 값이나 내용 변화 없음
 ### POST
-![POSTimage](POST.png)
+![POST](https://github.com/GalaxyDimension/2024-1-Web-Study/assets/129478908/58b759aa-3ac8-484a-9b88-d1514e6bc22a)
 - 리소스를 생성/업데이트하기 위해 서버에 데이터를 보내는데 사용
 - 데이터를 HTTP 메세지의 Body에 담아서 전송
 ### PUT
